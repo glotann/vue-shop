@@ -37,14 +37,16 @@ import Cart from '@/components/Cart'
 		{
 			return {
 				data: [],
-				cart: []
+				cart: [],
+				id:''
 			}
 		},
 
 		computed:
 		{
 			...mapGetters({
-				products: 'products'
+				products: 'products',
+				// product: 'product'
 			})
 		},
 
@@ -53,6 +55,7 @@ import Cart from '@/components/Cart'
 			addToCart(id)
 			{
 				console.log(id)
+				
 			}
 		},
 
