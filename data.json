@@ -1,0 +1,94 @@
+{
+	"products":[
+		{
+			"id" : 1,
+			"name" : "Ice Tea",
+			"price" : 3000,
+			"description" : "Tea without sugar, with ice",
+			"image" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/7/15/6386513/6386513_c3e764a3-175a-48b9-b132-083026f3e8cf_1080_1080.jpg",
+			"category" : "tea"
+		},
+
+		{
+			"id" : 2,
+			"name" : "Sweet Ice Tea",
+			"price" : 5000,
+			"description" : "Tea with sugar and ice",
+			"image" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/7/15/6386513/6386513_c3e764a3-175a-48b9-b132-083026f3e8cf_1080_1080.jpg",
+			"category" : "tea"
+		},
+
+		{
+			"id" : 3,
+			"name" : "Black Coffe",
+			"price" : 10000,
+			"description" : "Just coffee",
+			"image" : "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/06/blackcoffee-1561170296.jpg",
+			"category" : "coffee"
+		},
+
+		{
+			"id" : 4,
+			"name" : "Americano",
+			"price" : 70000,
+			"description" : "Diluting an espresso with hot water",
+			"image" : "https://dikertas.com/repository/content/2c4c4935d532da92a144292c8e8025a8.jpeg",
+			"category" : "coffee"
+		},
+
+		{
+			"id" : 5,
+			"name" : "Apple Juice",
+			"price" : 20000,
+			"description" : "Juice with apple and milk",
+			"image" : "https://jamiegeller.com/.image/t_share/MTY1NTI0OTc0MzI0MjI5MTQ3/bigstock-fresh-apple-juice-and-apples-102957245jpg.jpg",
+			"category" : "juice"
+		},
+
+		{
+			"id" : 6,
+			"name": "Banana Juice",
+			"price": 20000,
+			"description" : "Juice with banana and milk",
+			"image" : "https://i.ytimg.com/vi/LVw_rmhf-2g/maxresdefault.jpg",
+			"category" : "juice"
+		},
+
+		{
+			"id" : 7,
+			"name" : "Latte",
+			"price" : 70000,
+			"description": "coffee drink made with espresso and steamed milk",
+			"image" : "https://blog.pinjammodal.id/wp-content/uploads/2019/07/coffeee-latte.jpg",
+			"category" : "coffee"
+		},
+
+		{
+			"id" : 8,
+			"name" : "Sweet Tea",
+			"price" : 5000,
+			"description" : "Tea with sugar",
+			"image" : "https://d1doqjmisr497k.cloudfront.net/-/media/mccormick-us/recipes/mccormick/l/800/lemon_sweet_tea_800x800.jpg",
+			"category" : "tea"
+		},
+
+		{
+			"id": 9,
+			"name" : "Mineral Water",
+			"price": 2000,
+			"description" : "Contains various minerals, such as salts and sulfur compounds",
+			"image": "https://cdn0-production-images-kly.akamaized.net/H4qRnfEjWbicJXc42FVu85X0qmA=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/702492/original/water.jpg",
+			"category" : "water"
+		}
+	],
+
+	"users" : [
+		{
+			"id" : 1,
+			"username" : "admin",
+			"password" : "admin"
+		}
+	]
+
+}
+
